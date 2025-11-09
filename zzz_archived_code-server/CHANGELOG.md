@@ -1,3 +1,15 @@
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## "4.105.1" (25-10-2025)
+- Minor bugs fixed
+
+## 4.105.1 (25-10-2025)
+- Update to latest version from linuxserver/docker-code-server (changelog : https://github.com/linuxserver/docker-code-server/releases)
+## "4.105.0" (18-10-2025)
+- Minor bugs fixed
+
+## 4.105.0 (18-10-2025)
+- Update to latest version from linuxserver/docker-code-server (changelog : https://github.com/linuxserver/docker-code-server/releases)
 
 ## 4.104.3 (11-10-2025)
 - Update to latest version from linuxserver/docker-code-server (changelog : https://github.com/linuxserver/docker-code-server/releases)

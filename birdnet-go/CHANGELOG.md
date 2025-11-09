@@ -1,3 +1,15 @@
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## "nightly-20251028" (01-11-2025)
+- Minor bugs fixed
+
+## nightly-20251028 (01-11-2025)
+- Update to latest version from tphakala/birdnet-go (changelog : https://github.com/tphakala/birdnet-go/releases)
+## "nightly-20251012" (18-10-2025)
+- Minor bugs fixed
+
+## nightly-20251012 (18-10-2025)
+- Update to latest version from tphakala/birdnet-go (changelog : https://github.com/tphakala/birdnet-go/releases)
 
 ## nightly-20251008 (11-10-2025)
 - Update to latest version from tphakala/birdnet-go (changelog : https://github.com/tphakala/birdnet-go/releases)

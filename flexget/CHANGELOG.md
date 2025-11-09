@@ -1,4 +1,24 @@
 
+## 3.18.21 (08-11-2025)
+- Update to latest version from wiserain/flexget
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## "3.18.20" (01-11-2025)
+- Minor bugs fixed
+
+## 3.18.20 (01-11-2025)
+- Update to latest version from wiserain/flexget
+## "3.18.18" (25-10-2025)
+- Minor bugs fixed
+
+## 3.18.18 (25-10-2025)
+- Update to latest version from wiserain/flexget
+## "3.18.16" (18-10-2025)
+- Minor bugs fixed
+
+## 3.18.16 (18-10-2025)
+- Update to latest version from wiserain/flexget
+
 ## 3.18.14 (11-10-2025)
 - Update to latest version from wiserain/flexget
 

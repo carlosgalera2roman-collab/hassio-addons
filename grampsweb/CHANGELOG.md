@@ -1,3 +1,12 @@
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## 25.10.2 (01-11-2025)
+- Update to latest version from gramps-project/gramps-web (changelog : https://github.com/gramps-project/gramps-web/releases)
+## "25.10.0.1" (25-10-2025)
+- Minor bugs fixed
+
+## 25.10.0.1 (25-10-2025)
+- Update to latest version from gramps-project/gramps-web (changelog : https://github.com/gramps-project/gramps-web/releases)
 ## "25.9.0" (27-09-2025)
 - Minor bugs fixed
 

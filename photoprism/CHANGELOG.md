@@ -1,3 +1,10 @@
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## "ubuntu-2025-10-18" (25-10-2025)
+- Minor bugs fixed
+
+## ubuntu-2025-10-18 (2025-10-18)
+- Update to latest version from photoprism/photoprism
 ## ubuntu-2025-07-07 (2025-07-07)
 
 - Update to latest version from photoprism/photoprism

@@ -1,4 +1,19 @@
 
+## 1.9.1 (08-11-2025)
+- Update to latest version from firefly-iii/data-importer (changelog : https://github.com/firefly-iii/data-importer/releases)
+- Added support for configuring extra environment variables via the `env_vars` add-on option alongside config.yaml. See https://github.com/alexbelgium/hassio-addons/wiki/Add-Environment-variables-to-your-Addon-2 for details.
+
+## "1.9.0" (25-10-2025)
+- Minor bugs fixed
+
+## 1.9.0 (25-10-2025)
+- Update to latest version from firefly-iii/data-importer (changelog : https://github.com/firefly-iii/data-importer/releases)
+## "1.8.4" (18-10-2025)
+- Minor bugs fixed
+
+## 1.8.4 (18-10-2025)
+- Update to latest version from firefly-iii/data-importer (changelog : https://github.com/firefly-iii/data-importer/releases)
+
 ## 1.8.2 (11-10-2025)
 - Update to latest version from firefly-iii/data-importer (changelog : https://github.com/firefly-iii/data-importer/releases)
 ## 1.8.0-2 (06-10-2025)
